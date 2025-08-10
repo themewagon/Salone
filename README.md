@@ -17,11 +17,11 @@ git clone https://github.com/themewagon/Mantis-Vue.git
 ## Author
 
 ```
-Salone is developed by Team **HTML Codex**.
+Salone is developed by Team HTML Codex.
 ```
 
 ## License
 
-- Design and Code is Copyright &copy; [HTML COdex](https://htmlcodex.com/).
+- Design and Code is Copyright &copy; [HTML Codex](https://htmlcodex.com/).
 - Licensed cover under [MIT]
 - Distributed by [ThemeWagon](https://themewagon.com)
