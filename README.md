@@ -11,7 +11,7 @@
 Clone Repository
 
 ```
-git clone https://github.com/themewagon/Mantis-Vue.git
+https://github.com/themewagon/Salone.git
 ```
 
 ## Author
